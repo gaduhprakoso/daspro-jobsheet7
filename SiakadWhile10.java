@@ -14,7 +14,6 @@ public class SiakadWhile10 {
             System.out.print("Masukan Nilai Mahasiswa ke-" + (i+1) + ": ");
             nilai = sc.nextInt();
         
-        
         if (nilai < 0 || nilai > 100){
             System.out.println("Nilai Tidak Valid, Masukan Nilai Lain");
             continue;
