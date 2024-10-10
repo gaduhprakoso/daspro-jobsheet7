@@ -25,5 +25,6 @@ public class Tugas2_10 {
         }
         System.out.println("Biaya parkir : Rp." + total);
         } while (jenis != 0);        
+        sc.close();
     }
 }
