@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Tugas1_10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+        
         int tiket, tiketTerjual = 0;
         double harga = 50000, totalHarga, pendapatan = 0;
         String berhenti;
